@@ -1,0 +1,27 @@
+{
+  "name": "easy-xapi-supertest",
+  "version": "1.0.0",
+  "description": "Supertest wrapper for x-headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeadAlready/easy-xapi-supertest.git"
+  },
+  "keywords": [
+    "x-headers",
+    "supertest",
+    "test"
+  ],
+  "author": "Karl Düüna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeadAlready/easy-xapi-supertest/issues"
+  },
+  "homepage": "https://github.com/DeadAlready/easy-xapi-supertest",
+  "dependencies": {
+    "supertest": "^1.0.1"
+  }
+}
